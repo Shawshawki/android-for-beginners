@@ -1,5 +1,7 @@
 # android-for-beginners
+
 linuxtro笔记
+
 1、视频中使用的是：
         android:padding="20dp"
   当前代码中使用的是：
